@@ -9,8 +9,8 @@
   "icon": "icon.png",
   "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
   "keywords": [
-    "Azure", "Bundle", "Dev", "Functions App", "Fundamental", "Init", "Toolbox", 
-    "Optimize", "Powertools", "Productivity"
+    "Azure", "Bundle", "Dev", "Functions App", "Fundamental", "Init", "Optimize", 
+    "Powertools", "Productivity", "Toolbox"
   ],
   "homepage": "https://github.com/pibcht/vsce-pack-azure",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-azure.git" },
