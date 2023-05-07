@@ -7,6 +7,7 @@
 ### Extensions list
 
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
+- [Pi Pack • .NET](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
 
 ### Liens
 
