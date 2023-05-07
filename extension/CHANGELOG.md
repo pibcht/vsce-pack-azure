@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Pi Pack • .NET [pibcht.pack-dotnet](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
+- Pi Pack • Web [pibcht.pack-web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
 
 ## [1.0.0]
 

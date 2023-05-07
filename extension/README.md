@@ -11,3 +11,7 @@ Fundamental extensions for all uses
 ### Pi Pack • .NET [pibcht.pack-dotnet](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
 
 Essentials for .NET development
+
+### Pi Pack • Web [pibcht.pack-web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
+
+The starter pack for web development
