@@ -15,3 +15,7 @@ Essentials for .NET development
 ### Pi Pack • Web [pibcht.pack-web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
 
 The starter pack for web development
+
+### Azure Functions [ms-azuretools.vscode-azurefunctions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+
+An Azure Functions extension for Visual Studio Code.
