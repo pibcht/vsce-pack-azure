@@ -10,7 +10,6 @@
 - [Pi Pack • .NET](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
 - [Pi Pack • Web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
 
-- [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
 - [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
 
 ### Liens

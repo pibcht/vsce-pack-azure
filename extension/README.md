@@ -16,10 +16,6 @@ Essentials for .NET development
 
 The starter pack for web development
 
-### Azure Functions [ms-azuretools.vscode-azurefunctions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-
-An Azure Functions extension for Visual Studio Code.
-
 ### Azure Virtual Machines [ms-azuretools.vscode-azurevirtualmachines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
 
 An Azure Virtual Machines extension for Visual Studio Code.

@@ -18,7 +18,6 @@
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-azure/issues" },
   "extensionPack": [
     "pibcht.pack-core", "pibcht.pack-dotnet", "pibcht.pack-web", 
-    "ms-azuretools.vscode-azurefunctions", 
     "ms-azuretools.vscode-azurevirtualmachines"
   ]
 }
