@@ -16,6 +16,10 @@ Essentials for .NET development
 
 The starter pack for web development
 
+### Azure Logic Apps (Consumption) [ms-azuretools.vscode-logicapps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
+
+Visual Studio Code extension for Azure Logic Apps (Consumption)
+
 ### Azure Static Web Apps [ms-azuretools.vscode-azurestaticwebapps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
 
 An Azure Static Web Apps extension for Visual Studio Code.

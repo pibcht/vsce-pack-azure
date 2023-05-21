@@ -10,6 +10,7 @@
 - [Pi Pack • .NET](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
 - [Pi Pack • Web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
 
+- [Azure Logic Apps (Consumption)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
 - [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
 - [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
 
