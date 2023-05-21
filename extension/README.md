@@ -15,7 +15,3 @@ Essentials for .NET development
 ### Pi Pack • Web [pibcht.pack-web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
 
 The starter pack for web development
-
-### Azure Virtual Machines [ms-azuretools.vscode-azurevirtualmachines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
-
-An Azure Virtual Machines extension for Visual Studio Code.
