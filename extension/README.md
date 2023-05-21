@@ -23,3 +23,7 @@ Create, browse, and update globally distributed, multi-model databases in Azure.
 ### Azure Functions [ms-azuretools.vscode-azurefunctions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
 
 An Azure Functions extension for Visual Studio Code.
+
+### Azure Virtual Machines [ms-azuretools.vscode-azurevirtualmachines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
+
+An Azure Virtual Machines extension for Visual Studio Code.
