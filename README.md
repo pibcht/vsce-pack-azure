@@ -10,6 +10,8 @@
 - [Pi Pack • .NET](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
 - [Pi Pack • Web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
 
+- [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
+
 ### Liens
 
 - View Extension [README](/extension/README.md)

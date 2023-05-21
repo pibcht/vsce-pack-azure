@@ -16,5 +16,8 @@
   "homepage": "https://github.com/pibcht/vsce-pack-azure",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-azure.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-azure/issues" },
-  "extensionPack": [ "pibcht.pack-core", "pibcht.pack-dotnet", "pibcht.pack-web" ]
+  "extensionPack": [
+    "pibcht.pack-core", "pibcht.pack-dotnet", "pibcht.pack-web", 
+    "ms-vscode.vscode-node-azure-pack"
+  ]
 }
