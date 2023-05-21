@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0]
+
+### Added
+
+- Pi Pack • .NET [pibcht.pack-dotnet](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
+- Pi Pack • Web [pibcht.pack-web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
+- Azure Databases [ms-azuretools.vscode-cosmosdb](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
+- Azure Functions [ms-azuretools.vscode-azurefunctions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+- Azure Virtual Machines [ms-azuretools.vscode-azurevirtualmachines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
+
 ## [1.0.0]
 
 ### Added

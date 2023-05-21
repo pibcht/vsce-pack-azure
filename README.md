@@ -7,6 +7,12 @@
 ### Extensions list
 
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
+- [Pi Pack • .NET](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-dotnet)
+- [Pi Pack • Web](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-web)
+
+- [Azure Databases](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
+- [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+- [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
 
 ### Liens
 
